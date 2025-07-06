@@ -4,8 +4,7 @@ def bonAppetit(bill, k, b):
     cuenta = b - cuenta
 
     if cuenta == 0:
-        print("bon appetit")
+        print("Bon Appetit")
     else:
         print(cuenta)
     
-bonAppetit([3,10,9,2],1,7)
